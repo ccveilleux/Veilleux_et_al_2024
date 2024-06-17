@@ -4,7 +4,7 @@ Code and figure data for the manuscript "Fat storage and drought tolerance in a 
 Files include:
 
 ## R_Code_Drought_Analyses.R ##
-R code for statistical analyses in main text file. Files for individual lemur- and tree-based data are available upon request. Please contact Dr. Rebecca Lewis <rjlewis AT austin.utexas.edu >.
+R code for statistical analyses in main text file. Files for individual lemur- and tree-based data are available upon request. Please contact Dr. Rebecca Lewis (rjlewis AT austin.utexas.edu).
 
 ## R_Code_Drought_Figures.R ##
 R code to generate figures in main text file.
